@@ -1,6 +1,6 @@
 # FakeVoicey: Deepfake Audio Detection Benchmark
 
-### 🎓 University of Southeastern Philippines - Machine Learning Learning Evidence
+### 🎓 University of Southeastern Philippines - Machine Learning Final Project LE
 
 **Authors:** Earl Josh B. Delgado, John Marcellin E. Tan, Leah O. Pelias, Maureen M. Villamor
 
